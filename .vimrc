@@ -52,4 +52,4 @@ set smartindent
 
 set wrap "Wrap lines
 
-set title: " Set the windows title, reflecting the file currently being edited.
+set title " Set the windows title, reflecting the file currently being edited.
